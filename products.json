@@ -1,0 +1,42 @@
+[
+    {
+      "name" : "Iphone",
+      "price": 70000,
+      "feature": true,
+      "company": "apple"
+    },
+
+    {
+      "name" : "Iphone10",
+      "price" : 75000,
+      "feature" : true,
+      "company" : "apple"
+    },
+
+    {
+      "name" : "MacBook",
+      "price":  154000,
+      "feature" : true,
+      "company" : "apple"
+    },
+   
+    {
+     "name": "NotePad",
+     "price": 80000,
+     "feature": true,
+     "company": "mi"
+    },
+   
+    {
+      "name": "Watch",
+      "price" : 204,
+      "company":"samsung"
+    },
+
+    {
+      "name" : "SamsungGalaxyM31",
+      "price" : 20000,
+      "company" : "samsung"
+    }
+   ]
+
